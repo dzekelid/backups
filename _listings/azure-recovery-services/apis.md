@@ -13,8 +13,8 @@ tags:
 - Recovery
 - Microsoft
 - Backup
-created: "2018-03-10"
-modified: "2018-03-10"
+created: "2018-03-13"
+modified: "2018-03-13"
 url: https://raw.githubusercontent.com/streamdata-gallery/backup/master/_listings/azure-recovery-services/apis.yaml
 specificationVersion: "0.14"
 apis:
@@ -27,7 +27,7 @@ apis:
   tags: Backup
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/backup/master/_listings/azure-recovery-services/subscriptions-subscriptionid-resourcegroups-resourcegroupname-providers-microsoft-recoveryservices-vaults-vaultname-backupstorageconfig-vaultstorageconfig-patch.md
+    url: https://raw.githubusercontent.com/streamdata-gallery/backup/master/_listings/azure-recovery-services/subscriptions-subscriptionid-resourcegroups-resourcegroupname-providers-microsoft-recoveryservices-vaults-vaultname-backupconfig-vaultconfig-get.md
 x-common:
 - type: x-documentation
   url: https://docs.microsoft.com/en-us/azure/site-recovery/
