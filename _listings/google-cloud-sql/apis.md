@@ -27,7 +27,7 @@ apis:
   tags: Backup
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/backup/master/_listings/google-cloud-sql/projects-project-instances-instance-backupruns-id-get.md
+    url: https://raw.githubusercontent.com/streamdata-gallery/backup/master/_listings/google-cloud-sql/projects-project-instances-instance-restorebackup-post.md
 x-common:
 - type: x-change-log
   url: https://cloud.google.com/sql/docs/release-notes
