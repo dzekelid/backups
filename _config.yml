@@ -1,10 +1,10 @@
-title: Streamdata Gallery Backup
-url: backup.streamdata.gallery
-tag: Backup
+title: Streamdata Gallery Backups
+url: backups.streamdata.gallery
+tag: Backups
 markdown: kramdown
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", ".DS_Store"]
 github_user: streamdata-gallery
-github_repo: backup
+github_repo: backups
 github_branch: master
 collections:
   listings:
