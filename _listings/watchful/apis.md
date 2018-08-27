@@ -8,11 +8,21 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/l
 x-kinRank: "8"
 x-alexaRank: "0"
 tags: Backups
-created: "2018-08-25"
-modified: "2018-08-25"
+created: "2018-08-27"
+modified: "2018-08-27"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/backups/master/_listings/watchful/apis.md
 specificationVersion: "0.14"
-apis: []
+apis:
+- name: Watchful - List Of Latest Backups
+  x-api-slug: sitesidbackups-get
+  description: List of latest backups
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/watchful-li-logo.jpg
+  humanURL: http://watchful.li
+  baseURL: https://watchful.li//api/v1
+  tags: Monitoring, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/backups/master/_listings/watchful/sitesidbackups-get-openapi.md
 x-common:
 - type: x-api-gallery
   url: http://washington.metropolitan.area.transit.authority.api.gallery.streamdata.io
